@@ -25,9 +25,7 @@
   <a href="https://github.com/deepakyadav0223/animated-umbrella/issues/">
     <img src="https://img.shields.io/github/issues/deepakyadav0223/animated-umbrella" alt="open issues" />
   </a>
-  <a href="https://github.com/deepakyadav0223/animated-umbrella/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/licence/deepakyadav0223/animated-umbrella.svg" alt="license" />
-  </a>
+  
 </p>
    
 <h4>
