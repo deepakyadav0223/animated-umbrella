@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://ibb.co/4YjKt7L" alt="logo" width="200" height="auto" />
+  <img src="Weather.jpg" alt="logo" width="200" height="auto" />
   <h1>Weather Factory</h1>
   
   <p>
