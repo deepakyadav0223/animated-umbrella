@@ -11,22 +11,22 @@
 <!-- Badges -->
 <p>
   <a href="https://github.com/deepakyadav0223/animated-umbrella/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
+    <img src="https://img.shields.io/github/contributors/deepakyadav0223/animated-umbrella" alt="contributors" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/deepakyadav0223/animated-umbrella" alt="last update" />
   </a>
   <a href="https://github.com/deepakyadav0223/animated-umbrella/network/members">
-    <img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
+    <img src="https://img.shields.io/github/forks/deepakyadav0223/animated-umbrella" alt="forks" />
   </a>
   <a href="https://github.com/deepakyadav0223/animated-umbrella/stargazers">
-    <img src="https://img.shields.io/github/stars/Louis3797/awesome-readme-template" alt="stars" />
+    <img src="https://img.shields.io/github/stars/deepakyadav0223/animated-umbrella" alt="stars" />
   </a>
   <a href="https://github.com/deepakyadav0223/animated-umbrella/issues/">
-    <img src="https://img.shields.io/github/issues/Louis3797/awesome-readme-template" alt="open issues" />
+    <img src="https://img.shields.io/github/issues/deepakyadav0223/animated-umbrella" alt="open issues" />
   </a>
   <a href="https://github.com/deepakyadav0223/animated-umbrella/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
+    <img src="https://img.shields.io/github/licence/deepakyadav0223/animated-umbrella.svg" alt="license" />
   </a>
 </p>
    
